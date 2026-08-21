@@ -1,0 +1,6 @@
+{
+  "name": "Satun AED Readiness Registry",
+  "description": "แบบสำรวจและทำเนียบความพร้อมใช้เครื่องฟื้นคืนคลื่นหัวใจด้วยไฟฟ้าแบบอัตโนมัติ (AED) หน่วยบริการสาธารณสุขจังหวัดสตูล",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
